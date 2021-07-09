@@ -4,7 +4,7 @@ This is a project to use smartphones, tablets, IP cameras, computers, raspberry 
 
 Once a motion is detected, an email will be sent with the image and video.
 
-This project will use FOSS software as much as possible.
+This project will use FOSS as much as possible.
 
 Things that have been done
 Alert script
