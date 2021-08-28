@@ -22,3 +22,6 @@ This project will use FOSS as much as possible.
 2. Make sure the stream is working.  
 3. Add the stream to Motion program as a camera.  
 4. Use the script to start sending alerts.  
+
+# Acknowledgements
+Project icon is made by Freepik (https://www.flaticon.com/free-icon/lock_5336529)
