@@ -3,7 +3,7 @@
   <a href="https://gitlab.com/zagyarakushi/chs"><img src="https://gitlab.com/zagyarakushi/chs/-/raw/master/img/lock.png" alt="CHS"></a>
 </h1>
 
-<h4 align="center">Cheap Home Security using android phones and some scripts</h4>
+<h4 align="center">Cheap Home Security using any devices and some scripts</h4>
 
 Note: This project was originally pushed to Gitlab and as such, all issues, pull/merge requests and any other disucussion or changes should be made [here](https://gitlab.com/zagyarakushi/chs). (In case you are wondering, I have this mirrored on Github so people can follow the project even if they prefer Github. Also it acts as a backup.)
 
