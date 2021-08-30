@@ -37,19 +37,19 @@ This project will use FOSS as much as possible.
 
 ## Server setup
 
-You will need python for the scripts which is installed by default on almost all Linux distributions. Then you will Motion.
+You will need python for the scripts which is installed by default on almost all Linux distributions. Then you need to install Motion.
 
-Install Motion on Debian, Ubuntu or Raspbian:
+#### Install Motion on Debian, Ubuntu or Raspbian
 ```bash
 apt install motion
 ```
 
-Void Linux
+#### Void Linux
 ```bash
 xbps-install -S motion
 ```
 
-Clone the repository:
+#### Clone the repository
 ```bash
 git clone https://gitlab.com/zagyarakushi/chs
 ```
