@@ -1,6 +1,6 @@
 h1 align="center">
   <br>
-  <a href="https://gitlab.com/zagyarakushi/chs"><img src="https://gitlab.com/zagyarakushi/chs" alt="CHS"></a>
+  <a href="https://gitlab.com/zagyarakushi/chs"><img src="https://gitlab.com/zagyarakushi/chs/-/raw/master/img/lock.png" alt="CHS"></a>
 </h1>
 
 <h4 align="center">Cheap Home Security using android phones and some scripts</h4>
@@ -10,7 +10,7 @@ Note: This project was originally pushed to Gitlab and as such, all issues, pull
 [![License](https://img.shields.io/badge/License-MIT-lightgray.svg?style=flat-square)]()
 
 
-Table of contents
+# Table of contents
 -----------------
 
 * [Introduction](#introduction)
@@ -22,7 +22,7 @@ Table of contents
 * [License](#license)
 
 
-⚡ Introduction
+# ⚡ Introduction
 ------------
 
 This is a project to use smartphones, tablets, IP cameras, computers, raspberry pis and any other thing that has a camera and allows you to stream the feed as a security camera with motion detection. Once a motion is detected, an email will be sent with the image and video.
@@ -32,7 +32,7 @@ This project will use FOSS as much as possible.
 ![screenshot](https://gitlab.com/zagyarakushi/chs)
 
 
-📖 Installation
+# 📖 Installation
 ------------
 
 ## Server setup
@@ -59,7 +59,7 @@ git clone https://gitlab.com/zagyarakushi/chs
 Clients can be anything as mention in [Introduction](#introduction). As an example, andoird phone will be used as a camera in this guide. However, Motion accept any RTSP stream so any other devices that allows RTSP stream should work. In this case, all you need is to install Spynet Camera from F-droid.
 
 
-📝 Usage
+# 📝 Usage
 -----
 
 ## Server
@@ -71,7 +71,7 @@ Configure script and  Motion (Will be explained in the future) and run it. This 
 Run Spynet Cam and check settings to suit your use case. Make sure that RTSP stream is enabled.
 
 
-⭐ Known issues and limitations
+# ⭐ Known issues and limitations
 ----------------------------
 
 * 24/7 recording on a NAS with automatic deletion of video after storage starts getting filled up.
@@ -79,25 +79,25 @@ Run Spynet Cam and check settings to suit your use case. Make sure that RTSP str
 * Step by step configuration guide.
 
 
-✌️ Getting help
+# ✌️ Getting help
 ------------
 
 You can create an issue and I will try to help you as much as I can.
 
 
-🔔 Contributing
+# 🔔 Contributing
 ------------
 
 First read the code of conduct and contributing file. Then you can fork the repository, add your own stuff and create a pull/merge request.
 
 
-⚠ License
+# ⚠ License
 -------
 
 MIT
 
 
-🤓 Acknowledgements
+# 🤓 Acknowledgements
 --------
 
 Project icon is made by Freepik (https://www.flaticon.com/free-icon/lock_5336529)
