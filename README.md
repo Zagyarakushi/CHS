@@ -35,7 +35,7 @@ This project will use FOSS as much as possible.
 📖 Installation
 ------------
 
-* Server setup
+## Server setup
 
 You will need python for the scripts which is installed by default on almost all Linux distributions. Then you will Motion.
 
@@ -54,7 +54,7 @@ Clone the repository:
 git clone https://gitlab.com/zagyarakushi/chs
 ```
 
-* Client/Camera Setup
+## Client/Camera Setup
 
 Clients can be anything as mention in [Introduction](#introduction). As an example, andoird phone will be used as a camera in this guide. However, Motion accept any RTSP stream so any other devices that allows RTSP stream should work. In this case, all you need is to install Spynet Camera from F-droid.
 
@@ -62,11 +62,11 @@ Clients can be anything as mention in [Introduction](#introduction). As an examp
 📝 Usage
 -----
 
-* Server
+## Server
 
 Configure script and  Motion (Will be explained in the future) and run it. This will start the monitoring process and once a motion is detected, it will save an image in specified directory. By running the script in this same directory, the script will automatically detect new image and email it to specified email addresses.
 
-* Client
+## Client
 
 Run Spynet Cam and check settings to suit your use case. Make sure that RTSP stream is enabled.
 
