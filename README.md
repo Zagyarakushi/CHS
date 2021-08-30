@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
   <br>
   <a href="https://gitlab.com/zagyarakushi/chs"><img src="https://gitlab.com/zagyarakushi/chs/-/raw/master/img/lock.png" alt="CHS"></a>
 </h1>
