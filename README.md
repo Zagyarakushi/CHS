@@ -29,8 +29,6 @@ This is a project to use smartphones, tablets, IP cameras, computers, raspberry 
 
 This project will use FOSS as much as possible.
 
-![screenshot](https://gitlab.com/zagyarakushi/chs)
-
 
 # 📖 Installation
 ------------
